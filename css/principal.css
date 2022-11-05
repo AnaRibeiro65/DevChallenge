@@ -1,0 +1,31 @@
+.principal_imagem{
+	width: 100%;
+	object-fit: cover;
+}
+
+.principal_item{
+	text-align: center;
+}
+
+.principal_titulo{
+	font-weight: 700;
+	font-size: 30px;
+	color: var(--cinza);
+	margin: 1em;
+}
+
+.principal_texto{
+ font-size: 23px;
+ font-size: 700;
+margin-bottom: 2em;
+}
+
+.principal_botao{
+	text-decoration: none;
+	color: white;
+	background: var(--cor-laranja-escuro);
+	padding: 1em 4em;
+	border-radius: 1em;
+	font-size: 23px;
+	font-weight: 700;
+}

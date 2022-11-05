@@ -1,0 +1,14 @@
+@import url("cabesario.css");
+@import url("principal.css");
+
+:root{
+  --cor-laranja-escuro: #D2872C;
+  --cinza: #766F68;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
